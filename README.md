@@ -23,5 +23,7 @@ Now Platform, ServiceNow ITSM, ServiceNow ITBM.
 📡 I'm available.
 
 🤗 []'s
+
 🤓 André Moreira
+
 👨‍💻 Technical Consultant
